@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jpt3b6HdPi/iweafctRDpF+Ei0j2wVh753wh64mgTpfaV5+xDezDK7XG/6qcrFPRpCH532AFrW6XMkgGH1UrCQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programacion - Proyectos\\.Net\\VeterinariaYara\\veterinaria.yara.domain\\veterinaria.yara.domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EL GREGO\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\EL GREGO\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\EL GREGO\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\EL GREGO\\.nuget\\packages\\system.text.json\\6.0.5\\system.text.json.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

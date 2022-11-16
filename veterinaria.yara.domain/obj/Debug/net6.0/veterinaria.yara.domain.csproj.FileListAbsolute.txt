@@ -1,0 +1,12 @@
+D:\Programacion - Proyectos\.Net\VeterinariaYara\veterinaria.yara.domain\bin\Debug\net6.0\veterinaria.yara.domain.deps.json
+D:\Programacion - Proyectos\.Net\VeterinariaYara\veterinaria.yara.domain\bin\Debug\net6.0\veterinaria.yara.domain.dll
+D:\Programacion - Proyectos\.Net\VeterinariaYara\veterinaria.yara.domain\bin\Debug\net6.0\veterinaria.yara.domain.pdb
+D:\Programacion - Proyectos\.Net\VeterinariaYara\veterinaria.yara.domain\obj\Debug\net6.0\veterinaria.yara.domain.csproj.AssemblyReference.cache
+D:\Programacion - Proyectos\.Net\VeterinariaYara\veterinaria.yara.domain\obj\Debug\net6.0\veterinaria.yara.domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion - Proyectos\.Net\VeterinariaYara\veterinaria.yara.domain\obj\Debug\net6.0\veterinaria.yara.domain.AssemblyInfoInputs.cache
+D:\Programacion - Proyectos\.Net\VeterinariaYara\veterinaria.yara.domain\obj\Debug\net6.0\veterinaria.yara.domain.AssemblyInfo.cs
+D:\Programacion - Proyectos\.Net\VeterinariaYara\veterinaria.yara.domain\obj\Debug\net6.0\veterinaria.yara.domain.csproj.CoreCompileInputs.cache
+D:\Programacion - Proyectos\.Net\VeterinariaYara\veterinaria.yara.domain\obj\Debug\net6.0\veterinaria.yara.domain.dll
+D:\Programacion - Proyectos\.Net\VeterinariaYara\veterinaria.yara.domain\obj\Debug\net6.0\refint\veterinaria.yara.domain.dll
+D:\Programacion - Proyectos\.Net\VeterinariaYara\veterinaria.yara.domain\obj\Debug\net6.0\veterinaria.yara.domain.pdb
+D:\Programacion - Proyectos\.Net\VeterinariaYara\veterinaria.yara.domain\obj\Debug\net6.0\ref\veterinaria.yara.domain.dll

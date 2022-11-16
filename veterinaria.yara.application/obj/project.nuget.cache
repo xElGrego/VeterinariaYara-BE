@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "zCLiZ5EMK0wV3TK4Dw4oO4GiLX3Zgh8BoZ047G7Jh0v4RdfOmg3eVEMYqJ2KTRnt9Mcyzs4UpOuaGzq0MoVpzQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programacion - Proyectos\\.Net\\VeterinariaYara\\veterinaria.yara.application\\veterinaria.yara.application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EL GREGO\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\EL GREGO\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\EL GREGO\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\EL GREGO\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\EL GREGO\\.nuget\\packages\\system.text.json\\6.0.5\\system.text.json.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

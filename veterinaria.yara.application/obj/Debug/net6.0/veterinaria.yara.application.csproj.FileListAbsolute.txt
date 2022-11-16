@@ -1,0 +1,15 @@
+D:\Programacion - Proyectos\.Net\VeterinariaYara\veterinaria.yara.application\bin\Debug\net6.0\veterinaria.yara.application.deps.json
+D:\Programacion - Proyectos\.Net\VeterinariaYara\veterinaria.yara.application\bin\Debug\net6.0\veterinaria.yara.application.dll
+D:\Programacion - Proyectos\.Net\VeterinariaYara\veterinaria.yara.application\bin\Debug\net6.0\veterinaria.yara.application.pdb
+D:\Programacion - Proyectos\.Net\VeterinariaYara\veterinaria.yara.application\bin\Debug\net6.0\veterinaria.yara.domain.dll
+D:\Programacion - Proyectos\.Net\VeterinariaYara\veterinaria.yara.application\bin\Debug\net6.0\veterinaria.yara.domain.pdb
+D:\Programacion - Proyectos\.Net\VeterinariaYara\veterinaria.yara.application\obj\Debug\net6.0\veterinaria.yara.application.csproj.AssemblyReference.cache
+D:\Programacion - Proyectos\.Net\VeterinariaYara\veterinaria.yara.application\obj\Debug\net6.0\veterinaria.yara.application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion - Proyectos\.Net\VeterinariaYara\veterinaria.yara.application\obj\Debug\net6.0\veterinaria.yara.application.AssemblyInfoInputs.cache
+D:\Programacion - Proyectos\.Net\VeterinariaYara\veterinaria.yara.application\obj\Debug\net6.0\veterinaria.yara.application.AssemblyInfo.cs
+D:\Programacion - Proyectos\.Net\VeterinariaYara\veterinaria.yara.application\obj\Debug\net6.0\veterinaria.yara.application.csproj.CoreCompileInputs.cache
+D:\Programacion - Proyectos\.Net\VeterinariaYara\veterinaria.yara.application\obj\Debug\net6.0\veterinaria.yara.application.csproj.CopyComplete
+D:\Programacion - Proyectos\.Net\VeterinariaYara\veterinaria.yara.application\obj\Debug\net6.0\veterinaria.yara.application.dll
+D:\Programacion - Proyectos\.Net\VeterinariaYara\veterinaria.yara.application\obj\Debug\net6.0\refint\veterinaria.yara.application.dll
+D:\Programacion - Proyectos\.Net\VeterinariaYara\veterinaria.yara.application\obj\Debug\net6.0\veterinaria.yara.application.pdb
+D:\Programacion - Proyectos\.Net\VeterinariaYara\veterinaria.yara.application\obj\Debug\net6.0\ref\veterinaria.yara.application.dll

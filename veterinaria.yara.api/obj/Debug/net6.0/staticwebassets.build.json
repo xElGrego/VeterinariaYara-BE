@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4LXKSLPEot6PELQy1kFD/P898NHYm1njKrWMtQQZ4ZU=",
+  "Source": "veterinaria.yara.api",
+  "BasePath": "_content/veterinaria.yara.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
